@@ -1,0 +1,163 @@
+{
+  "name": "terra-media",
+  "title": "Tierra media",
+  "description": "<p>Bienvenidos aventureros, algo acecha y espero que no seais su presa.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "DDB Backgrounds",
+      "name": "ddb-terra-media-backgrounds",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-backgrounds.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-backgrounds.db"
+    },
+    {
+      "label": "DDB Spells",
+      "name": "ddb-terra-media-spells",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-spells.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-spells.db"
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-terra-media-items",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-items.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-items.db"
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-terra-media-monsters",
+      "package": "world",
+      "type": "Actor",
+      "path": "packs/ddb-terra-media-monsters.db",
+      "system": "dnd5e",
+      "entity": "Actor",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-monsters.db"
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-terra-media-feats",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-feats.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-feats.db"
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-terra-media-class-features",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-class-features.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-class-features.db"
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-terra-media-classes",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-classes.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-classes.db"
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-terra-media-racial-traits",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-racial-traits.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-racial-traits.db"
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-terra-media-races",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-races.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-races.db"
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-terra-media-override",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-terra-media-override.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\Javier\\AppData\\Local\\FoundryVTT\\Data\\worlds\\terra-media\\packs\\ddb-terra-media-override.db"
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-terra-media-tables",
+      "package": "world",
+      "type": "RollTable",
+      "path": "packs/ddb-terra-media-tables.db",
+      "system": "dnd5e",
+      "entity": "RollTable",
+      "private": false
+    },
+    {
+      "label": "Hierbas",
+      "type": "Item",
+      "name": "hierbas",
+      "path": "packs/hierbas.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "label": "Scythe Master",
+      "type": "Item",
+      "name": "scythe-master",
+      "path": "packs/scythe-master.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Item",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "https://i.ibb.co/Ss4s17q/World-map.jpg",
+  "coreVersion": "9.269",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.6.1"
+}

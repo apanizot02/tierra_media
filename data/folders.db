@@ -1,0 +1,37 @@
+{"_id":"22GAhpJcsGf4wJqs","name":"La Compañia de Dioses","type":"Actor","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"2J06qECdptVGWfeh","name":"Tierras Cultivadas","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#b0850c","flags":{}}
+{"name":"Prados","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"2KmgLOl9Y6lwYmb7"}
+{"name":"Temas Donaldurr","type":"Playlist","parent":"bRO80A6ewjxqM6vY","sorting":"a","sort":0,"color":null,"flags":{},"_id":"4H126j7iJ8uJs3LH"}
+{"_id":"539Jk7S0vHEdTki1","name":"Loby/empezar","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Hierbas","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#0c8104","flags":{},"_id":"69yxfNGIjfbfjfLH"}
+{"_id":"6vKXohWO13x2SGX3","name":"Montañas","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#561f1f","flags":{}}
+{"name":"Humedales","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#5c85ff","flags":{},"_id":"9JFFbxTh4dMqGb7C"}
+{"name":"Moria","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#903c3c","flags":{},"_id":"AOzllmZYDMqIkZhb"}
+{"name":"campamentos","type":"Scene","parent":"kXyHlaulUeMQr16p","sorting":"a","sort":0,"color":"#2b076e","flags":{},"_id":"Cj0kiPTsKpSNQYad"}
+{"_id":"GvqyZBdc6ivS3TOB","name":"Tabernas","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#0caadf","flags":{}}
+{"name":"Bosques de coníferas","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#307f1a","flags":{},"_id":"HsWVZxOeZpbNeIHH"}
+{"_id":"IotR8CaMPPnhPB7q","name":"Caminos","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#21b06b","flags":{}}
+{"name":"Montañas","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#665800","flags":{},"_id":"JX2dET7arfL21s3L"}
+{"name":"Pastizales","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#0a665b","flags":{},"_id":"KDVP4f7bJoP1hIgc"}
+{"name":"Combate","type":"Playlist","parent":"bRO80A6ewjxqM6vY","sorting":"a","sort":0,"color":"#ff0000","flags":{},"_id":"MZbylyzO1DdipUrH"}
+{"_id":"OLyC6fZGgVICej3C","name":"Aliados","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":"#0565cc","flags":{}}
+{"name":"Lorien","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#057a28","flags":{},"_id":"QQHnGZDY1RbuXaza"}
+{"_id":"RcfHUlx0BgkbtLw7","name":"Bosques","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#25f609","flags":{}}
+{"name":"Volcanico","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#fb1313","flags":{},"_id":"TvZEuvkaVXD8b2KD"}
+{"_id":"VWL1RCS3ZjpNiVtG","name":"caballos","type":"Actor","parent":null,"sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"W0m5qAQDvic4obDn","name":"Erebor","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#110f8f","flags":{}}
+{"name":"Musica","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"bRO80A6ewjxqM6vY"}
+{"name":"Tierras Secas","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#dbae0a","flags":{},"_id":"crKjrh7fa0IqZfay"}
+{"name":"Mordor","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#ea0606","flags":{},"_id":"fJeCcXpVlvMGkSg5"}
+{"_id":"frKKUHhS1uriYHib","name":"Enemigos","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":"#ff0000","flags":{}}
+{"name":"Chill","type":"Playlist","parent":"bRO80A6ewjxqM6vY","sorting":"a","sort":0,"color":"#2a6fdf","flags":{},"_id":"gVFmF1qfJjesTFm9"}
+{"name":"Litoral","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#0e31af","flags":{},"_id":"h93bqdTWE5Wf59vh"}
+{"name":"Mision Principal El rRey del Mal","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#132c02","flags":{},"_id":"kXyHlaulUeMQr16p"}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"kZGJi3Q2wTczTn6O"}
+{"name":"Secuaces del Rey del Mal","type":"Actor","parent":"frKKUHhS1uriYHib","sorting":"a","sort":0,"color":"#022c05","flags":{},"_id":"mUSueN1qLCVIZsDD"}
+{"_id":"ohsOVFajiHVBftFf","name":"aventureros","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":"#16a503","flags":{}}
+{"name":"malos","type":"Playlist","parent":"bRO80A6ewjxqM6vY","sorting":"a","sort":0,"color":"#023108","flags":{},"_id":"pjvzXESUrwduoGUe"}
+{"name":"Nazguls","type":"Actor","parent":"frKKUHhS1uriYHib","sorting":"a","sort":0,"color":null,"flags":{},"_id":"uXxv3vPnkv7OoO0m"}
+{"_id":"v70Y9tccS168pFni","name":"DOL GULDUR","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Tinieblas de Sauron","type":"Actor","parent":"frKKUHhS1uriYHib","sorting":"a","sort":0,"color":"#2e1010","flags":{},"_id":"w2sfEKbALX56hXtn"}
+{"name":"Bosques Frondosos","type":"Item","parent":"69yxfNGIjfbfjfLH","sorting":"a","sort":0,"color":"#0b5b38","flags":{},"_id":"w303uEb8bst6Nuon"}
